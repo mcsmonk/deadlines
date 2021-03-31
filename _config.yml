@@ -1,0 +1,13 @@
+title: Sunghyun Jin's Personal Deadlines
+description: Countdowns to deadlines.
+author: Sunghyun Jin
+
+domain: "mcsmonk.github.io/deadlines"
+baseurl: ""
+
+twitter_username: hiddenmarkov
+github_username: mcsmonk
+github_repo: deadlines
+ga_id: UA-155268748-1
+
+markdown: kramdown
