@@ -3,7 +3,7 @@ description: Countdowns to deadlines.
 author: Sunghyun Jin
 
 domain: "mcsmonk.github.io/deadlines"
-baseurl: "mcsmonk.github.io/deadlines"
+baseurl: ""
 
 twitter_username: hiddenmarkov
 github_username: mcsmonk
