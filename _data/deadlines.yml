@@ -1,5 +1,15 @@
 ---
 
+- name: Birthday
+  description: Happy Birthday
+  year: 2021
+  link: https://mcsmonk.github.io/
+  deadline: "%y-09-05 23:59"
+  timezone: Etc/GMT-9
+  date: September 06
+  place: Seoul, South Korea
+  tags: ETC
+
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
   year: 2021
@@ -24,14 +34,4 @@
   comment: 2 review cycles
   date: "November 14-19"
   place: Seoul, South Korea
-  tags: [SEC, PRIV]
-
-- name: Birthday
-  description: Happy Birthday
-  year: 2021
-  link: https://mcsmonk.github.io/
-  deadline: "2019-09-05 23:59"
-  timezone: Etc/GMT-9
-  date: February 24-28
-  place: Seoul, South Korea
-  tags: ETC
+  tags: [SEC]
