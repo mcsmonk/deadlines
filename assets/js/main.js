@@ -3,7 +3,7 @@
 $(function() {
   deadlineByConf = {};
 
-  {% for conf in site.data.conferences %}
+  {% for conf in site.data.deadlines %}
   {% assign conf_id = conf.name | append: conf.year | slugify %}
   {% if conf.deadline == "TBA" %}
   $('#{{ conf_id }} .timer').html("TBA");
