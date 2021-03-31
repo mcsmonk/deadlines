@@ -4,9 +4,10 @@
   description: Happy Birthday
   year: 2021
   link: https://mcsmonk.github.io/
-  deadline: "%y-09-05 23:59"
+  deadline: 
+    - "%y-09-05 23:59"
   timezone: Etc/GMT-9
-  date: September 06
+  date: September 6
   place: Seoul, South Korea
   tags: ETC
 
@@ -32,6 +33,6 @@
     - "2021-01-20 23:59"
     - "2021-05-06 23:59"
   comment: 2 review cycles
-  date: "November 14-19"
+  date: November 14-19
   place: Seoul, South Korea
   tags: [SEC]
