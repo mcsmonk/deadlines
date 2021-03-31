@@ -24,7 +24,7 @@
               <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
               <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
             </h1>
-            <a href="">mcsmonk.github.io</a>
+            <a href="{{ "/" | prepend:site.baseurl }}">mcsmonk.github.io</a>
           </div>
           <div class="col-xs-12">
             {{ site.description }}
@@ -88,7 +88,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.13/moment-timezone-with-data.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/store.js/1.3.20/store.min.js"></script>
     <script src="{{ site.baseurl}}/deadlines/assets/js/main.js" async></script>
-    
+
     {% if site.ga_id %}
     {% include analytics.html %}
     {% endif %}
