@@ -5,7 +5,9 @@
   year: 2021
   link: https://cardis2021.its.uni-luebeck.de/
   deadline:
+    - "2021-06-25 23:59"
     - "2021-07-05 23:59"
+  comment: Extended
   date: November 11-12, 2021
   place: Hybrid Conference
   tags: [SEC, CRYPTO]
@@ -29,7 +31,7 @@
   link: https://mcsmonk.github.io/
   deadline: 
     - "%y-09-05 23:59"
-  comment: Test :)
+  comment:
   timezone: Etc/GMT-9
   date: September 6
   place: Seoul, South Korea
