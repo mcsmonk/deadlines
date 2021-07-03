@@ -1,15 +1,15 @@
 ---
 
-- name: Birthday
-  description: Happy Birthday
-  link: https://mcsmonk.github.io/
-  deadline: 
-    - "%y-09-05 23:59"
-  comment:
-  timezone: Etc/GMT-9
-  date: September 6
-  place: Seoul, South Korea
-  tags: ETC
+- name: CARDIS
+  description: Smart Card Research and Advanced Application Conference
+  year: 2021
+  link: https://cardis2021.its.uni-luebeck.de/
+  deadline:
+    - "2021-07-05 23:59"
+  comment: Extended (6/25->7/5)
+  date: November 11-12, 2021
+  place: Hybrid Conference
+  tags: [SEC, CRYPTO]
 
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
@@ -23,18 +23,6 @@
   comment: Rolling deadline every quarter
   date: TBD
   place: TBD
-  tags: [SEC, CRYPTO]
-
-- name: CARDIS
-  description: Smart Card Research and Advanced Application Conference
-  year: 2021
-  link: https://cardis2021.its.uni-luebeck.de/
-  deadline:
-    - "2021-06-25 23:59"
-    - "2021-07-05 23:59"
-  comment: Extended
-  date: November 11-12, 2021
-  place: Hybrid Conference
   tags: [SEC, CRYPTO]
 
 - name: TCHES

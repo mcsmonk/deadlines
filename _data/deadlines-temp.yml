@@ -25,3 +25,14 @@
   date: November 14-19
   place: Seoul, South Korea
   tags: [SEC]
+
+- name: Birthday
+  description: Happy Birthday
+  link: https://mcsmonk.github.io/
+  deadline: 
+    - "%y-09-05 23:59"
+  comment:
+  timezone: Etc/GMT-9
+  date: September 6
+  place: Seoul, South Korea
+  tags: ETC
